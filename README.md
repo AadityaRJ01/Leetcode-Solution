@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
+| [0263-ugly-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
