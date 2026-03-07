@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0074-search-a-2d-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
