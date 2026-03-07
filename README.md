@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0069-sqrtx](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0263-ugly-number) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
