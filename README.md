@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0263-ugly-number) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
