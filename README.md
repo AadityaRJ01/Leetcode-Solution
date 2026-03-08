@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
