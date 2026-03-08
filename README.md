@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0198-house-robber](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [1539-kth-missing-positive-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 ## Binary Search
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
