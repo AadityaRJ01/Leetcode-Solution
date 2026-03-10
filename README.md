@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
