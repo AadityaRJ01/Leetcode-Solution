@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
+| [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
+| [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
 |  |
 | ------- |
