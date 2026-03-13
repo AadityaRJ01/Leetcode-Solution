@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 ## Array
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0138-copy-list-with-random-pointer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 ## Linked List
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
 |  |
