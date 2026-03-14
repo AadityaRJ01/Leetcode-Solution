@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0258-add-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0263-ugly-number) |
+| [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 ## Array
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 ## Number Theory
 |  |
 | ------- |
