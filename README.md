@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [1009-complement-of-base-10-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 ## Greedy
 |  |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 ## Number Theory
