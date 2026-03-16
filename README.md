@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
 | [0402-remove-k-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0402-remove-k-digits) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
