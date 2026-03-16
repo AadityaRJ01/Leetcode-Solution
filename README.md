@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
 ## Sorting
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -275,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
