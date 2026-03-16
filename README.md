@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0090-subsets-ii) |
+| [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [1009-complement-of-base-10-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 ## Greedy
 |  |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
@@ -267,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
