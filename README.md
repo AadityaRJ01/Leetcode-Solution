@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0040-combination-sum-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
