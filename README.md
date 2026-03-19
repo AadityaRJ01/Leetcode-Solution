@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Linked List
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -294,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Tree
 |  |
 | ------- |
