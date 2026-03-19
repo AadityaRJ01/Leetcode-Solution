@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 | [0402-remove-k-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 ## Array
 |  |
 | ------- |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
