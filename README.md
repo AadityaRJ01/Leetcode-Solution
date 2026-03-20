@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0076-minimum-window-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0076-minimum-window-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0138-copy-list-with-random-pointer) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
