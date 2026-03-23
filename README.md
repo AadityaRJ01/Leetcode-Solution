@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
+| [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## String
 |  |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+| [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
 ## Database
 |  |
 | ------- |
