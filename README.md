@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
@@ -183,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0912-sort-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
