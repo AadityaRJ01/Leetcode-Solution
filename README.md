@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0016-3sum-closest) |
 | [0027-remove-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0027-remove-element) |
+| [0037-sudoku-solver](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0051-n-queens) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0051-n-queens) |
