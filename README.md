@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0070-climbing-stairs) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0040-combination-sum-ii) |
+| [0048-rotate-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0074-search-a-2d-matrix) |
