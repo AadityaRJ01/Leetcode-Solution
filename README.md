@@ -377,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 ## Counting
 |  |
 | ------- |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -452,4 +454,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
