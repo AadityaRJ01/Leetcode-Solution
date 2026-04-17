@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0029-divide-two-integers) |
+| [0043-multiply-strings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0069-sqrtx) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0076-minimum-window-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0412-fizz-buzz) |
