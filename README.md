@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0043-multiply-strings) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
