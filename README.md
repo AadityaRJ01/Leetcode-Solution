@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Dynamic Programming
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
