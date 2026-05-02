@@ -3,13 +3,16 @@ class Solution {
         if(s.length()!=t.length()){
             return false;
         }
-        int[] count=new int[26];
+        int[] freq=new int[26];
         for(int i=0;i<s.length();i++){
-            count[s.charAt(i)-'a']++;
-            count[t.charAt(i)-'a']--;
+            freq[s.charAt(i)-'a']++;
         }
-        for(int val:count){
-            if(val!=0){
+        for(int i=0;i<t.length();i++){
+            freq[t.charAt(i)-'a']--;
+        }
+
+        for(int i=0;i<26;i++){
+            if(freq[i]!=0){
                 return false;
             }
         }
