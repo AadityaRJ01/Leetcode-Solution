@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
