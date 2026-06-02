@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
 | [1991-find-the-middle-index-in-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 ## Binary Search
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
 ## Two Pointers
 |  |
 | ------- |
@@ -507,6 +509,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0938-range-sum-of-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Counting
 |  |
@@ -559,6 +562,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -622,6 +626,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
+| [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
