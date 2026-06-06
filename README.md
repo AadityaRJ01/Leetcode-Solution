@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0596-classes-with-at-least-5-students) |
 | [0608-tree-node](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0608-tree-node) |
 | [0620-not-boring-movies](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0620-not-boring-movies) |
+| [0626-exchange-seats](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0626-exchange-seats) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1148-article-views-i) |
