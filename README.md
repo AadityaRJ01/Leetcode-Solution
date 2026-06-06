@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [1021-remove-outermost-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1678-goal-parser-interpretation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -374,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0901-online-stock-span](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0907-sum-of-subarray-minimums) |
+| [1021-remove-outermost-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
