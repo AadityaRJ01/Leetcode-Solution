@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0127-word-ladder) |
@@ -357,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0085-maximal-rectangle) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
