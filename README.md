@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1683-invalid-tweets) |
+| [1693-daily-leads-and-partners](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1693-daily-leads-and-partners) |
 | [1757-recyclable-and-low-fat-products](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1757-recyclable-and-low-fat-products) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Bit Manipulation
