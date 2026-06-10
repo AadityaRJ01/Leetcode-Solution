@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1200-minimum-absolute-difference) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
