@@ -355,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0907-sum-of-subarray-minimums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0907-sum-of-subarray-minimums) |
 ## Memoization
 |  |
@@ -527,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0912-sort-an-array) |
 ## Monotonic Queue
 |  |
@@ -557,6 +559,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0938-range-sum-of-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0938-range-sum-of-bst) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
@@ -612,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
@@ -689,6 +693,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
@@ -716,4 +721,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
