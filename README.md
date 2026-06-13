@@ -563,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -664,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0450-delete-node-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
