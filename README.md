@@ -566,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0938-range-sum-of-bst) |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
@@ -663,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0938-range-sum-of-bst) |
