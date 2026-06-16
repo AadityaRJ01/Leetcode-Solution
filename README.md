@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
 |  |
 | ------- |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
+| [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Database
 |  |
 | ------- |
