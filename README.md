@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1539-kth-missing-positive-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1200-minimum-absolute-difference](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1200-minimum-absolute-difference) |
+| [1833-maximum-ice-cream-bars](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1833-maximum-ice-cream-bars](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
@@ -722,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0912-sort-an-array) |
+| [1833-maximum-ice-cream-bars](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 ## Interactive
 |  |
 | ------- |
