@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
+| [0560-subarray-sum-equals-k](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0904-fruit-into-baskets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -724,6 +726,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
