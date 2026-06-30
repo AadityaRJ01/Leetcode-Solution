@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0275-h-index-ii) |
+| [0303-range-sum-query-immutable](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -438,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0232-implement-queue-using-stacks) |
+| [0303-range-sum-query-immutable](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0933-number-of-recent-calls) |
 ## Queue
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
