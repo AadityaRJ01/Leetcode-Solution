@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1688-count-of-matches-in-tournament](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
@@ -472,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [1688-count-of-matches-in-tournament](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
