@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1688-count-of-matches-in-tournament](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0371-sum-of-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [1009-complement-of-base-10-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Greedy
 |  |
 | ------- |
