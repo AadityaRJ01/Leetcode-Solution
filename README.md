@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1991-find-the-middle-index-in-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
+| [2126-destroying-asteroids](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
 | [2574-left-and-right-sum-differences](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1552-magnetic-force-between-two-balls) |
 | [1833-maximum-ice-cream-bars](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2126-destroying-asteroids](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 ## Merge Sort
@@ -559,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1833-maximum-ice-cream-bars](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
+| [2126-destroying-asteroids](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 ## Backtracking
