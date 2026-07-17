@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0875-koko-eating-bananas](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0907-sum-of-subarray-minimums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0907-sum-of-subarray-minimums) |
 | [0912-sort-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0912-sort-an-array) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0875-koko-eating-bananas](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
