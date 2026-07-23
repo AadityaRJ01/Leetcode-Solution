@@ -10,7 +10,6 @@ class Solution {
                 else if(stack.peek()==-a){
                     stack.pop();
                 }
-                
                     a=0;
                     break;
                 
