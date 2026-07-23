@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0151-reverse-words-in-a-string) |
