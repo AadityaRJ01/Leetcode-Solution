@@ -763,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -820,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
@@ -888,6 +890,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0450-delete-node-in-a-bst) |
