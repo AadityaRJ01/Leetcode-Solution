@@ -12,15 +12,10 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-
-        // split list
         prev.next = null;
-
-        // sort both halves
         ListNode l1 = sortList(head);
         ListNode l2 = sortList(slow);
 
-        // merge
         return merge(l1, l2);
     }
 
