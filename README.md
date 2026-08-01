@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0275-h-index-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
