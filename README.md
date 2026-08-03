@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0567-permutation-in-string) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
