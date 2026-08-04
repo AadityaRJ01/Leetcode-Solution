@@ -1042,4 +1042,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0877-stone-game) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
