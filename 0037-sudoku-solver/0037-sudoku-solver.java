@@ -1,60 +1,62 @@
 class Solution {
+
     public void solveSudoku(char[][] board) {
-        solve(board, 0, 0);
+        solve(board);
     }
 
-    private boolean solve(char[][] board, int row, int col) {
-        if (row == board.length) {
-            return true;
-        }
-        
-        if (col == board[0].length) {
-            return solve(board, row + 1, 0);
-        }
+    private boolean solve(char[][] board) {
 
-        if (board[row][col] != '.') {
-            return solve(board, row, col + 1);
-        }
-        
-        for (char num = '1'; num <= '9'; num++) {
-            if (isValidPlacement(board, row, col, num)) {
-                board[row][col] = num; 
-                
-                if (solve(board, row, col + 1)) {
-                    return true;
+        for (int row = 0; row < 9; row++) {
+
+            for (int col = 0; col < 9; col++) {
+
+                if (board[row][col] == '.') {
+
+                    for (char num = '1'; num <= '9'; num++) {
+
+                        if (isValid(board, row, col, num)) {
+
+                            board[row][col] = num;
+
+                            if (solve(board))
+                                return true;
+
+                            // Backtrack
+                            board[row][col] = '.';
+                        }
+                    }
+
+                    return false;
                 }
-                
-                
-                board[row][col] = '.';
             }
         }
-        
-     
-        return false;
+
+        return true;
     }
 
-    private boolean isValidPlacement(char[][] board, int row, int col, char num) {
+    private boolean isValid(char[][] board,
+                            int row,
+                            int col,
+                            char num) {
 
-        for (int i = 0; i < board.length; i++) {
-          
-            if (board[i][col] == num) {
-                return false;
-            }
+        for (int i = 0; i < 9; i++) {
 
-           
-            if (board[row][i] == num) {
+            // Row
+            if (board[row][i] == num)
                 return false;
-            }
- 
-            int subgridRow = 3 * (row / 3) + i / 3; 
-            int subgridCol = 3 * (col / 3) + i % 3;
- 
-            if (board[subgridRow][subgridCol] == num) {
+
+            // Column
+            if (board[i][col] == num)
                 return false;
-            }
+
+            // 3x3 Box
+            int r = 3 * (row / 3) + i / 3;
+            int c = 3 * (col / 3) + i % 3;
+
+            if (board[r][c] == num)
+                return false;
         }
 
-    
         return true;
     }
 }
