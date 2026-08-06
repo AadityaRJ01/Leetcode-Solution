@@ -652,6 +652,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1148-article-views-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1174-immediate-food-delivery-ii) |
+| [1193-monthly-transactions-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1193-monthly-transactions-i) |
 | [1251-average-selling-price](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1683-invalid-tweets) |
