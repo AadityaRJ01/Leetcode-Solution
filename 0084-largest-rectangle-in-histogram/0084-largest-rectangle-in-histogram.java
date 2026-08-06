@@ -10,15 +10,14 @@ class Solution {
         for (int i = 0; i <= n; i++) {
             int h = (i == n) ? 0 : heights[i];
 
-            // Pop while current height is less than height at stack top
             while (!st.isEmpty() && h < heights[st.peek()]) {
                 int top = st.pop();
                 int height = heights[top];
                 int width;
                 if (st.isEmpty()) {
-                    width = i; // spans from 0 to i-1
+                    width = i; 
                 } else {
-                    width = i - st.peek() - 1; // spans from st.peek()+1 to i-1
+                    width = i - st.peek() - 1;
                 }
                 maxArea = Math.max(maxArea, height * width);
             }
