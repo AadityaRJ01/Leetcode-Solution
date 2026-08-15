@@ -1,17 +1,31 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        int buy1 = Integer.MIN_VALUE;
-        int sell1 = 0;
-        int buy2 = Integer.MIN_VALUE;
-        int sell2 = 0;
-
-        for (int price : prices) {
-            buy1 = Math.max(buy1, -price);
-            sell1 = Math.max(sell1, buy1 + price);
-            buy2 = Math.max(buy2, sell1 - price);
-            sell2 = Math.max(sell2, buy2 + price);
+        int n=prices.length;
+        Integer[][][] dp=new Integer[n][2][3];
+        return solve(0,1,prices,dp,2);
+    }
+    private int solve(int i,int buy,int[] prices,Integer[][][] dp,int limit){
+        if(i==prices.length){
+            return 0;
         }
-
-        return sell2;
+        if(limit==0){
+            return 0;
+        }
+        if(dp[i][buy][limit]!=null){
+            return dp[i][buy][limit];
+        }
+        int profit;
+        if(buy==1){
+            int buyStock=-prices[i]+solve(i+1,0,prices,dp,limit);
+            int skip=solve(i+1,1,prices,dp,limit);
+            profit=Math.max(buyStock,skip);
+        }
+        else{
+            int sellStock=prices[i]+solve(i+1,1,prices,dp,limit-1);
+            int hold=solve(i+1,0,prices,dp,limit);
+            profit=Math.max(sellStock,hold);
+        }
+        return dp[i][buy][limit]=profit;
     }
 }
+    
