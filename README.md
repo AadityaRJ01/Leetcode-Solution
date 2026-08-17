@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0480-sliding-window-median](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0435-non-overlapping-intervals](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -699,6 +702,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0680-valid-palindrome-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
