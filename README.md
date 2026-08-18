@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -702,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
