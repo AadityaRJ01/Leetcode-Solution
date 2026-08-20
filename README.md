@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
@@ -554,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -750,6 +752,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0494-target-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -1143,8 +1146,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
