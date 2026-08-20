@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0455-assign-cookies) |
@@ -551,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0392-is-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
@@ -1137,4 +1139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
