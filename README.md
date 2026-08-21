@@ -1164,4 +1164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0518-coin-change-ii) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
