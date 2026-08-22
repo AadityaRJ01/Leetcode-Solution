@@ -10,7 +10,7 @@ class Solution {
             int mid=(low+high)/2;
             long tHours=0;
             for(int pile:piles){
-                tHours += (int) Math.ceil((double) pile / mid);
+                tHours+= (int) Math.ceil((double) pile/mid);
             }
             if(tHours<=h){
                 ans=mid;
