@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0275-h-index-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
