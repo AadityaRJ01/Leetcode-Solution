@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0455-assign-cookies) |
 | [0480-sliding-window-median](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0480-sliding-window-median) |
 | [0485-max-consecutive-ones](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
@@ -538,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
+| [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0912-sort-an-array) |
 ## Recursion
 |  |
@@ -1207,4 +1211,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0229-majority-element-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
