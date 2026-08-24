@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
+| [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
+| [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -329,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
+| [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
 | ------- |
@@ -436,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2540-minimum-common-value) |
+| [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
