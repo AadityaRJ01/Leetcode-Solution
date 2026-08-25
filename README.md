@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1678-goal-parser-interpretation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
