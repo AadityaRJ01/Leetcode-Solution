@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 ## Array
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [1009-complement-of-base-10-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Greedy
 |  |
 | ------- |
@@ -789,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 | [0494-target-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0494-target-sum) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Number Theory
 |  |
 | ------- |
