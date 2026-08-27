@@ -1189,10 +1189,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
