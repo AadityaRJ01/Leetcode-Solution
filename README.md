@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1552-magnetic-force-between-two-balls) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1695-maximum-erasure-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1695-maximum-erasure-value) |
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1833-maximum-ice-cream-bars](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
