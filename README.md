@@ -502,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
@@ -760,6 +761,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0090-subsets-ii) |
+| [0191-number-of-1-bits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
