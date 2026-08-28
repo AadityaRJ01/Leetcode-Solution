@@ -922,6 +922,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1019,6 +1020,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -1123,6 +1125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
+| [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
 | [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
@@ -1136,6 +1139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1281,4 +1285,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0139-word-break) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
