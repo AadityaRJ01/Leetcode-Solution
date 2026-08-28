@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0202-happy-number) |
+| [0223-rectangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0223-rectangle-area) |
 | [0227-basic-calculator-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0227-basic-calculator-ii) |
 | [0258-add-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0263-ugly-number) |
@@ -1187,6 +1188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0223-rectangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Game Theory
