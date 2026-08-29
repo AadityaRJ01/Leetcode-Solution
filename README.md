@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0344-reverse-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0394-decode-string) |
@@ -432,6 +433,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0424-longest-repeating-character-replacement) |
@@ -939,6 +941,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0621-task-scheduler) |
