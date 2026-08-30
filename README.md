@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0827-making-a-large-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0827-making-a-large-island) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0827-making-a-large-island) |
 | [0931-minimum-falling-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0994-rotting-oranges) |
@@ -884,6 +887,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
 | [0767-reorganize-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0767-reorganize-string) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0912-sort-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0912-sort-an-array) |
@@ -939,6 +943,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
@@ -1042,6 +1047,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0802-find-eventual-safe-states) |
@@ -1151,6 +1157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0684-redundant-connection](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0695-max-area-of-island) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0785-is-graph-bipartite) |
 | [0827-making-a-large-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0827-making-a-large-island) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -1340,6 +1347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0292-nim-game) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 ## Nim Game
 |  |
 | ------- |
@@ -1364,6 +1372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0743-network-delay-time) |
+| [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-path-with-minimum-effort](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
