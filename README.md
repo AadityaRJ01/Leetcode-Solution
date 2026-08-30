@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+| [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3340-check-balanced-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
@@ -723,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
+| [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
 ## Database
