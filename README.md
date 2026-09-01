@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0441-arranging-coins](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
