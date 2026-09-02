@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0223-rectangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0223-rectangle-area) |
