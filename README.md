@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [0812-largest-triangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0812-largest-triangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0827-making-a-large-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0827-making-a-large-island) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -1241,6 +1243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0223-rectangle-area) |
+| [0812-largest-triangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Game Theory
@@ -1394,4 +1397,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
