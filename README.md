@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2574-left-and-right-sum-differences](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
+| [2951-find-the-peaks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -1401,4 +1402,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
+## Enumeration
+|  |
+| ------- |
+| [2951-find-the-peaks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2951-find-the-peaks) |
 <!---LeetCode Topics End-->
