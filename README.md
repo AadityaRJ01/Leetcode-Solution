@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
 | [0812-largest-triangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0827-making-a-large-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0827-making-a-large-island) |
+| [0832-flipping-an-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0931-minimum-falling-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0795-number-of-subarrays-with-bounded-maximum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0795-number-of-subarrays-with-bounded-maximum) |
+| [0832-flipping-an-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
@@ -738,6 +741,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0735-asteroid-collision) |
+| [0832-flipping-an-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1688-count-of-matches-in-tournament](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
@@ -797,6 +801,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
+| [0832-flipping-an-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [1009-complement-of-base-10-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
