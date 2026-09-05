@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
+| [3978-unique-middle-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3978-unique-middle-element) |
 ## Binary Search
 |  |
 | ------- |
@@ -992,6 +993,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3978-unique-middle-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3978-unique-middle-element) |
 ## Tree
 |  |
 | ------- |
