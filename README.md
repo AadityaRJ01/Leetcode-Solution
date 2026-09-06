@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0451-sort-characters-by-frequency) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0516-longest-palindromic-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
