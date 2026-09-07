@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -696,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
@@ -1353,6 +1355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brute-Force Search
 |  |
 | ------- |
