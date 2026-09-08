@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3870-count-commas-in-range](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
