@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
 | [0827-making-a-large-island](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0827-making-a-large-island) |
 | [0832-flipping-an-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0832-flipping-an-image) |
+| [0846-hand-of-straights](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0875-koko-eating-bananas](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0877-stone-game) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0846-hand-of-straights) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0904-fruit-into-baskets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0846-hand-of-straights) |
 | [0881-boats-to-save-people](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
@@ -840,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0767-reorganize-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0767-reorganize-string) |
+| [0846-hand-of-straights](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0846-hand-of-straights) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0871-minimum-number-of-refueling-stops) |
 | [0881-boats-to-save-people](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0881-boats-to-save-people) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1005-maximize-sum-of-array-after-k-negations) |
