@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0680-valid-palindrome-ii) |
 | [0721-accounts-merge](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0721-accounts-merge) |
 | [0767-reorganize-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0767-reorganize-string) |
+| [0796-rotate-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0796-rotate-string) |
 ## Quickselect
 |  |
 | ------- |
