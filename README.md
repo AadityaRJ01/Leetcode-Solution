@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -512,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2540-minimum-common-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Linked List
 |  |
 | ------- |
@@ -632,6 +634,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2487-remove-nodes-from-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -1452,4 +1455,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2951-find-the-peaks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2951-find-the-peaks) |
+| [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
