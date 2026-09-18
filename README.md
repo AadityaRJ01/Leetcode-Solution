@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
 | [0368-largest-divisible-subset](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0368-largest-divisible-subset) |
 | [0371-sum-of-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0394-decode-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
@@ -851,6 +853,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
 | [0476-number-complement](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0476-number-complement) |
 | [0832-flipping-an-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0832-flipping-an-image) |
