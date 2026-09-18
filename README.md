@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0282-expression-add-operators](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0282-expression-add-operators) |
 | [0292-nim-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
@@ -1430,6 +1431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0292-nim-game) |
+| [0319-bulb-switcher](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0319-bulb-switcher) |
 ## Minimax
 |  |
 | ------- |
