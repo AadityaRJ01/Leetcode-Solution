@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [2469-convert-the-temperature](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2485-find-the-pivot-integer) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
