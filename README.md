@@ -338,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 | [3033-modify-the-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3033-modify-the-matrix) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
