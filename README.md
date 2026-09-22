@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0973-k-closest-points-to-origin) |
 | [1037-valid-boomerang](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1037-valid-boomerang) |
+| [1137-n-th-tribonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -711,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1048-longest-string-chain) |
+| [1137-n-th-tribonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1976-number-of-ways-to-arrive-at-destination) |
@@ -721,6 +723,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1137-n-th-tribonacci-number) |
 ## Stack
 |  |
 | ------- |
