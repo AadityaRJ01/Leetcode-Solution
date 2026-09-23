@@ -339,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2951-find-the-peaks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3024-type-of-triangle) |
+| [3028-ant-on-the-boundary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3033-modify-the-matrix) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
@@ -827,6 +828,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
+| [3028-ant-on-the-boundary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3028-ant-on-the-boundary) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
@@ -1247,6 +1249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2485-find-the-pivot-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2574-left-and-right-sum-differences) |
+| [3028-ant-on-the-boundary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3028-ant-on-the-boundary) |
 ## Trie
 |  |
 | ------- |
