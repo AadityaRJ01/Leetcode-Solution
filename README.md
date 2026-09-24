@@ -356,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3978-unique-middle-element) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3731-find-missing-elements) |
+| [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -935,6 +937,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
 ## Backtracking
 |  |
 | ------- |
@@ -1543,6 +1546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2951-find-the-peaks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
 ## Bézout's Lemma
 |  |
 | ------- |
