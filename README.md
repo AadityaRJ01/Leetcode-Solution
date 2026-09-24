@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3110-score-of-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3110-score-of-a-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
 | [3028-ant-on-the-boundary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3028-ant-on-the-boundary) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
