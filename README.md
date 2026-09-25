@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
 | [3833-count-dominant-indices](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3833-count-dominant-indices) |
+| [3861-minimum-capacity-box](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3925-concatenate-array-with-reverse) |
 | [3978-unique-middle-element](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3978-unique-middle-element) |
