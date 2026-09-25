@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3099-harshad-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3099-harshad-number) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3285-find-indices-of-stable-mountains) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3452-sum-of-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3522-calculate-score-after-performing-instructions) |
