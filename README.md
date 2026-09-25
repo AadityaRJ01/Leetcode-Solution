@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3340-check-balanced-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3340-check-balanced-string) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3798-largest-even-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3798-largest-even-number) |
 | [3931-check-adjacent-digit-differences](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3931-check-adjacent-digit-differences) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3285-find-indices-of-stable-mountains) |
 | [3452-sum-of-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3452-sum-of-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3731-find-missing-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -848,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3178-find-the-child-who-has-the-ball-after-k-seconds](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3178-find-the-child-who-has-the-ball-after-k-seconds) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
+| [3522-calculate-score-after-performing-instructions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3522-calculate-score-after-performing-instructions) |
 | [3612-process-string-with-special-operations-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3612-process-string-with-special-operations-i) |
 | [3701-compute-alternating-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
 | [3726-remove-zeros-in-decimal-representation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3726-remove-zeros-in-decimal-representation) |
