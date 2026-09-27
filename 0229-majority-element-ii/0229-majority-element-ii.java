@@ -3,13 +3,9 @@ class Solution {
 
         int candidate1 = Integer.MIN_VALUE;
         int candidate2 = Integer.MAX_VALUE;
-
         int count1 = 0;
         int count2 = 0;
-
-        // Phase 1: Find candidates
         for (int num : nums) {
-
             if (num == candidate1) {
                 count1++;
             }
@@ -29,11 +25,8 @@ class Solution {
                 count2--;
             }
         }
-
-        // Phase 2: Verify candidates
         count1 = 0;
         count2 = 0;
-
         for (int num : nums) {
             if (num == candidate1) {
                 count1++;
@@ -42,18 +35,13 @@ class Solution {
                 count2++;
             }
         }
-
-        // Phase 3: Build result
         List<Integer> result = new ArrayList<>();
-
         if (count1 > nums.length / 3) {
             result.add(candidate1);
         }
-
         if (count2 > nums.length / 3) {
             result.add(candidate2);
         }
-
         return result;
     }
 }
