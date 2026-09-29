@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1991-find-the-middle-index-in-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2126-destroying-asteroids](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1905-count-sub-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1905-count-sub-islands) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3033-modify-the-matrix) |
@@ -861,6 +863,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2582-pass-the-pillow](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2582-pass-the-pillow) |
