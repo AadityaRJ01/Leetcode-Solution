@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2187-minimum-time-to-complete-trips](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2187-minimum-time-to-complete-trips) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2418-sort-the-people](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2540-minimum-common-value) |
@@ -968,6 +969,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2126-destroying-asteroids](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2126-destroying-asteroids) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
@@ -1057,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1834-single-threaded-cpu](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1834-single-threaded-cpu) |
+| [2208-minimum-operations-to-halve-array-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Monotonic Queue
 |  |
 | ------- |
