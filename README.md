@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0283-move-zeroes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -400,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0367-valid-perfect-square) |
@@ -488,6 +490,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -935,6 +938,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0222-count-complete-tree-nodes) |
 | [0260-single-number-iii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0371-sum-of-two-integers) |
@@ -1611,4 +1615,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0572-subtree-of-another-tree) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
