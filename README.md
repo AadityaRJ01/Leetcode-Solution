@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0767-reorganize-string) |
 | [0796-rotate-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0917-reverse-only-letters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0917-reverse-only-letters) |
 | [0981-time-based-key-value-store](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [0856-score-of-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0907-sum-of-subarray-minimums) |
 | [1021-remove-outermost-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
@@ -1527,6 +1529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brute-Force Search
