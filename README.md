@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1037-valid-boomerang](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1037-valid-boomerang) |
 | [1046-last-stone-weight](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1048-longest-string-chain) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1200-minimum-absolute-difference](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1200-minimum-absolute-difference) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1248-count-number-of-nice-subarrays](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1248-count-number-of-nice-subarrays) |
@@ -457,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
@@ -1251,6 +1253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1254-number-of-closed-islands) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1448-count-good-nodes-in-binary-tree) |
