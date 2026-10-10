@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1903-largest-odd-number-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
+| [1925-count-square-sum-triples](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2235-add-two-integers) |
 | [2469-convert-the-temperature](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2485-find-the-pivot-integer) |
@@ -1614,6 +1615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
 | [2951-find-the-peaks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2951-find-the-peaks) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
