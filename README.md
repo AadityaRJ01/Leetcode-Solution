@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1695-maximum-erasure-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1695-maximum-erasure-value) |
+| [1720-decode-xored-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1720-decode-xored-array) |
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1800-maximum-ascending-subarray-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1833-maximum-ice-cream-bars) |
@@ -972,6 +973,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-complement-of-base-10-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1486-xor-operation-in-an-array) |
+| [1720-decode-xored-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1720-decode-xored-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3827-count-monobit-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3827-count-monobit-integers) |
