@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1688-count-of-matches-in-tournament](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1903-largest-odd-number-in-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
@@ -596,6 +597,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1695-maximum-erasure-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1695-maximum-erasure-value) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -1173,6 +1175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0767-reorganize-string) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0992-subarrays-with-k-different-integers) |
 | [1189-maximum-number-of-balloons](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1189-maximum-number-of-balloons) |
+| [1742-maximum-number-of-balls-in-a-box](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1742-maximum-number-of-balls-in-a-box) |
 | [1748-sum-of-unique-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
