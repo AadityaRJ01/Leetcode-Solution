@@ -341,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1552-magnetic-force-between-two-balls) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1631-path-with-minimum-effort](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1631-path-with-minimum-effort) |
+| [1646-get-maximum-in-generated-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1695-maximum-erasure-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1695-maximum-erasure-value) |
 | [1720-decode-xored-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1720-decode-xored-array) |
@@ -895,6 +896,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0735-asteroid-collision) |
 | [0832-flipping-an-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0832-flipping-an-image) |
 | [0844-backspace-string-compare](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0844-backspace-string-compare) |
+| [1646-get-maximum-in-generated-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1646-get-maximum-in-generated-array) |
 | [1688-count-of-matches-in-tournament](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1929-concatenation-of-array) |
