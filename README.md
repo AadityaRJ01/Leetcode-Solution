@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
 | [3701-compute-alternating-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3701-compute-alternating-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
@@ -717,6 +718,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3536-maximum-product-of-two-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
 ## Merge Sort
@@ -1013,6 +1015,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3745-maximize-expression-of-three-elements) |
 ## Backtracking
 |  |
