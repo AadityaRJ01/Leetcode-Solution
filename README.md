@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3033-modify-the-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3033-modify-the-matrix) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
+| [3151-special-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3151-special-array-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3248-snake-in-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3248-snake-in-matrix) |
 | [3285-find-indices-of-stable-mountains](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3285-find-indices-of-stable-mountains) |
