@@ -371,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2706-buy-two-chocolates](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2951-find-the-peaks) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3024-type-of-triangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3024-type-of-triangle) |
@@ -609,6 +610,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2418-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2965-find-missing-and-repeated-values](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3522-calculate-score-after-performing-instructions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3522-calculate-score-after-performing-instructions) |
@@ -1546,10 +1548,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Ordered Set
 |  |
