@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1922-count-good-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1922-count-good-numbers) |
 | [1925-count-square-sum-triples](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1925-count-square-sum-triples) |
 | [2235-add-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2409-count-days-spent-together) |
 | [2469-convert-the-temperature](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2485-find-the-pivot-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2409-count-days-spent-together](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2409-count-days-spent-together) |
 | [2418-sort-the-people](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3110-score-of-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
