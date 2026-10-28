@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0079-word-search) |
@@ -926,6 +928,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
@@ -1001,6 +1004,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0136-single-number) |
