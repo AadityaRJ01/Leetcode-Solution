@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
@@ -947,6 +948,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0495-teemo-attacking) |
 | [0657-robot-return-to-origin](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0735-asteroid-collision) |
