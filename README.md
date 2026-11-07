@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [0528-random-pick-with-weight](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0528-random-pick-with-weight) |
 | [0593-valid-square](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0593-valid-square) |
 | [0728-self-dividing-numbers](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0728-self-dividing-numbers) |
 | [0812-largest-triangle-area](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0812-largest-triangle-area) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0518-coin-change-ii) |
+| [0528-random-pick-with-weight](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
@@ -463,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
 | [0441-arranging-coins](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0441-arranging-coins) |
 | [0493-reverse-pairs](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0493-reverse-pairs) |
+| [0528-random-pick-with-weight](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0528-random-pick-with-weight) |
 | [0540-single-element-in-a-sorted-array](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -1400,6 +1403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0410-split-array-largest-sum) |
+| [0528-random-pick-with-weight](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0930-binary-subarrays-with-sum) |
@@ -1737,4 +1741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0287-find-the-duplicate-number) |
+## Randomized
+|  |
+| ------- |
+| [0528-random-pick-with-weight](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/0528-random-pick-with-weight) |
 <!---LeetCode Topics End-->
