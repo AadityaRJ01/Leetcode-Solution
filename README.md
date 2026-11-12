@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3024-type-of-triangle) |
 | [3028-ant-on-the-boundary](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3028-ant-on-the-boundary) |
 | [3033-modify-the-matrix](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3033-modify-the-matrix) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3142-check-if-grid-satisfies-conditions](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3142-check-if-grid-satisfies-conditions) |
 | [3151-special-array-i](https://github.com/AadityaRJ01/Leetcode-Solution/tree/master/3151-special-array-i) |
